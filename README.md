@@ -1,11 +1,11 @@
-# Common-English-Errors-By-Chinese
-🐈中国人常犯的中式英语口语错误大全
+# Common-English-Mistakes-By-Chinese
+## 🐈中国人常犯的中式英语口语错误大全
 
 
 
 以下表达来自母语者或者经过母语者校对
 
-| 序号 | 表达               | ❌中式错误表达                     | ✅母语者的表达                                                | 解析                                                         |
+| 序号 | 表达               | ❌中式错误表达                     | ✅母语者的表达                                                | 📢解析                                                        |
 | ---- | ------------------ | --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1    | 我英语不是很好     | My English is poor                | My English isn't so good 或 My English is shit               | 用后面的表达更自然，My English is shit 一般用在不正式的场合  |
 | 2    | 怎么说xxx          | How to say XXX in English         | How do you say XXX in English                                | How to 一般作从句，单独做一个句子结构不完整                  |
@@ -110,7 +110,11 @@
 
  
 
-## 1.Open / Close 和 Turn on / Turn off  怎么选择？
+---
+
+
+
+## 1.📲Open / Close 和 Turn on / Turn off  怎么选择？
 
 一般来说用电或者有开关的就是 turn on，用力气的就是 open
 
@@ -122,7 +126,13 @@
 
 
 
-## 2.*交通工具用 In 还是 On*
+---
+
+
+
+
+
+## 2.🚎*交通工具用 In 还是 On*
 
 大部分情况下，如果你能站起来走一走，就是 On
 
@@ -136,7 +146,15 @@
 
 
 
-## 3.How's it going 如何回复
+
+
+---
+
+
+
+
+
+## 3.🙋🏼‍♂️How's it going 如何回复
 
 how's it going 是美国最常见的“你好嘛”
 
@@ -152,7 +170,13 @@ how's it going 是美国最常见的“你好嘛”
 
 
 
-## 4.What's up 的三个回复
+
+
+---
+
+
+
+## 4.🙋🏻What's up 的三个回复
 
 1.Not much, how about you? 还行吧，你呢？
 
@@ -164,7 +188,13 @@ how's it going 是美国最常见的“你好嘛”
 
 
 
-## 5.非常不常用的英语习语 （ 可能只会从40岁以上的年长的人口中听到几次）
+---
+
+
+
+
+
+## 5.🙅🏻‍♂️非常不常用的英语习语 （ 可能只会从40岁以上的年长的人口中听到几次）
 
 1. a diamond dozen
 
@@ -191,3 +221,10 @@ how's it going 是美国最常见的“你好嘛”
 11. bolts from the blue
 
 避开使用这些习语
+
+
+
+
+
+
+
