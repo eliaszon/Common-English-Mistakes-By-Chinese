@@ -1,9 +1,7 @@
 # Common-English-Mistakes-By-Chinese
 ## 🐈中国人常犯的中式英语口语错误大全
 
-![Banner](https://github.com/eliaszon/Common-English-Mistakes-By-Chinese/blob/main/images/Banner.png =1121x726)
-
-
+<img src="https://github.com/eliaszon/Common-English-Mistakes-By-Chinese/blob/main/images/Banner.png" width="1121" height="726" />
 
 
 
