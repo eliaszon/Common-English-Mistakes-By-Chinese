@@ -1,6 +1,8 @@
 # Common-English-Mistakes-By-Chinese
 ## 🐈中国人常犯的中式英语口语错误大全
 
+![Banner](https://github.com/eliaszon/Common-English-Mistakes-By-Chinese/blob/main/images/Banner.png)
+
 
 
 以下表达来自母语者或者经过母语者校对
