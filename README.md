@@ -97,12 +97,12 @@
 | 84   | 你皮肤好白         | You're so white                   | You have such fair skin  (形容词是 light skinned  / fair skinned ) | white 一般是说白人这个人种，You're so white 有侮辱的意思。 light skinned / fair skinned。一般来说最好别评价别人的肤色 |
 | 85   | 晒黑了             | Turn black / Go black             | Suntan/ Suntanned<br />Tan / Tanned<br />Dark / Darker       | Black 用来说人的时候，一般是说人种.<br />例句 I’m so much darker now 我晒黑了好多 |
 | 86   | 你好可怜           | You are so poor                   | Poor you / That sucks                                        |                                                              |
-| 87   | 试一试             | Have a try                        | You shou try sth /                                           | Have a try 母语者用的比较少，而且Have a try 是指现在马上就可以做的事情，而不是说以后有机会可以试试 |
+| 87   | 试一试             | Have a try                        | You shou try sth                                             | Have a try 母语者用的比较少，而且Have a try 是指现在马上就可以做的事情，而不是说以后有机会可以试试 |
 | 88   | 我回中国了         | I'm back to China                 | I'm going back to China 我要回中国<br />I'm back in China / I came back to China 我回到了中国<br />I went back to China 我去了趟中国 | I'm back to China 语法是错的，而且老外听到的时候会比较懵，不确定是要回去，还是已经回去了 |
 | 89   | 价格贵             | Price is expensive                | pricey / something is expensive / the price is high          |                                                              |
 | 90   | 睡得晚             | Sleep late                        | go to sleep late / go te bed late                            | Sleep late 是起得晚/睡懒觉的意思                             |
 | 91   | 等等我             | wait me                           | wait a moment / hold on (for + 时间) / give me a second      |                                                              |
-| 92   | 丢脸               | lose my face                      | shwo sb up / make sb look bad / lose face                    | 注意 lose face 虽然可以用但是是固定搭配，不能加 my / your / his 之类的，一般用来说某个人,而不是某个群体。用的时候一般是 Someone lost face / Someone will lose face |
+| 92   | 丢脸               | lose my face                      | show sb up / make sb look bad / lose face                    | 注意 lose face 虽然可以用但是是固定搭配，不能加 my / your / his 之类的，一般用来说某个人,而不是某个群体。用的时候一般是 Someone lost face / Someone will lose face |
 | 93   | 好麻烦             | troublesome                       | Something is a Trouble / Hassle / a pain in the ass          | troublesome 也不常用，而且一般比较阴阳怪气。 l例句 Some      |
 | 94   | 操场               | Playground                        | Sports field / Sports ground<br />更具体一点 Running track 跑道 / Court 球场 | Playgorund 是小孩玩的游乐场(玩猴架,秋千,滑梯的地方)，可以去网上搜一下相关的图片 |
 | 95   | 一起去喝咖啡啊     | Let's drink coffee                | Let's have coffee / Let's grab some coffee                   | 中文里一般会加上动词喝，比如喝水 喝咖啡，但是在英语里，大部分人会说 have / want + 想喝的这个东西 |
