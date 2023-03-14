@@ -97,7 +97,7 @@
 | 84   | 你皮肤好白         | You're so white                   | You have such fair skin  (形容词是 light skinned  / fair skinned ) | white 一般是说白人这个人种，You're so white 有侮辱的意思。 light skinned / fair skinned。一般来说最好别评价别人的肤色 |
 | 85   | 晒黑了             | Turn black / Go black             | Suntan/ Suntanned<br />Tan / Tanned<br />Dark / Darker       | Black 用来说人的时候，一般是说人种.<br />例句 I’m so much darker now 我晒黑了好多 |
 | 86   | 你好可怜           | You are so poor                   | Poor you / That sucks                                        |                                                              |
-| 87   | 试一试             | Have a try                        | You shou try sth                                             | Have a try 母语者用的比较少，而且Have a try 是指现在马上就可以做的事情，而不是说以后有机会可以试试 |
+| 87   | 试一试             | Have a try                        | You should try sth                                             | Have a try 母语者用的比较少，而且Have a try 是指现在马上就可以做的事情，而不是说以后有机会可以试试 |
 | 88   | 我回中国了         | I'm back to China                 | I'm going back to China 我要回中国<br />I'm back in China / I came back to China 我回到了中国<br />I went back to China 我去了趟中国 | I'm back to China 语法是错的，而且老外听到的时候会比较懵，不确定是要回去，还是已经回去了 |
 | 89   | 价格贵             | Price is expensive                | pricey / something is expensive / the price is high          |                                                              |
 | 90   | 睡得晚             | Sleep late                        | go to sleep late / go te bed late                            | Sleep late 是起得晚/睡懒觉的意思                             |
